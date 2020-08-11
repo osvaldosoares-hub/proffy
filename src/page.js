@@ -97,4 +97,5 @@ module.exports = {
     pageLanding,
     pageStudy,
     pageGiveClasses,
-    save
+    saveClasses
+}
